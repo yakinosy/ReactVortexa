@@ -1,4 +1,3 @@
-<!-- ReactVortexa_20260301010500_9534 -->
 
 # ReactVortexa: Cognitive Engineered for High-Performance Predictive Maintenance
 > "Empowering organizations to revolutionize their asset management through predictive analytics, in real-time."
